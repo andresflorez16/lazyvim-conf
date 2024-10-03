@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/andres/.config/nvim'
+let g:netrw_dirhist_3='/home/andres/Documentos/dev/BIOMETRIX/fna-redux'
+let g:netrw_dirhist_2='/home/andres'
+let g:netrw_dirhist_1='/home/andres/Documentos/dev/agendamiento/Front_Agendamiento'
